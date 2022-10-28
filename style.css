@@ -19,3 +19,80 @@ body {
   background-color: #bdc3c7;
 }
 
+.foto {
+  width: 300px;
+}
+
+.logo {
+  background-color: #b92e81;
+  border-radius: 50%;
+  position: absolute;
+  left: 175pt;
+  top: 135pt;
+}
+
+.profil {
+  width: 300px;
+  background-color: #31363b;
+  box-shadow: -5px 5px 3px #888888;
+}
+
+.obsah {
+  font-size: 14px;
+  color: #bdc3c7;
+  font-family: sans-serif; 
+  padding: 0pt 20pt 20pt 20pt;
+
+}
+
+.jmeno {
+  color: white;
+  font-family: Montserrat, sans-serif;
+}
+
+.odkazy {
+  padding: 0
+}
+
+.odkazy a {
+  margin: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #bdc3c7;
+  font-family: Montserrat, sans-serif; 
+}
+
+.odkazy li {
+  list-style-type: none;
+  border: 1px solid #bdc3c7;
+  display: inline-block;
+}
+
+.portfolio,
+.facebook,
+.twitter
+ {
+  text-align: center;
+  padding: 5pt;
+}
+
+.portfolio {
+  width: 300px;
+}
+
+.facebook,
+.twitter {
+  width: 150px;
+}
+
+.portfolio:hover {
+  background-color: #e74c3c;
+}
+
+.facebook:hover {
+  background-color: #3b5998;
+}
+
+.twitter:hover {
+  background-color: #1da1f2;
+}
