@@ -38,7 +38,7 @@ body {
 }
 
 .obsah {
-  font-size: 14px;
+  font-size: 15px;
   color: #bdc3c7;
   font-family: "Source Sans Pro", sans-serif; 
   padding: 0pt 20pt 20pt 20pt;
@@ -60,7 +60,8 @@ body {
   text-decoration: none;
   color: #bdc3c7;
   font-family: "Montserrat", sans-serif;
-  font-weight: bold; 
+  font-size: 11pt;
+  font-weight: bold;
 }
 
 
@@ -75,7 +76,7 @@ body {
 .twitter
  {
   text-align: center;
-  padding: 5pt;
+  padding: 7.5pt;
 }
 
 .portfolio {
