@@ -59,8 +59,10 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   color: #bdc3c7;
-  font-family: Montserrat, sans-serif; 
+  font-family: Montserrat, sans-serif;
+  font-weight: bold; 
 }
+
 
 .odkazy li {
   list-style-type: none;
